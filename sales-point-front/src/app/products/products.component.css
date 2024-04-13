@@ -1,0 +1,21 @@
+
+.container{
+    background-color: antiquewhite;
+    display: flex;
+    justify-items: auto;
+}
+.container-fluid{
+    background-color: blue;
+    border:solid 3px red
+}
+.row{
+    display: inline;
+}
+.btn{
+    border:1px  solid black;
+    border-radius: .2re;
+    margin-left: 1rem;
+}
+.col{
+    display: -ms-inline-flexbox;
+}
